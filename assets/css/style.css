@@ -319,4 +319,7 @@ width: 230px;
   justify-content: space-between;
   align-items: flex-start;
   margin-left: 300px;
+  position: relative;
+    /* top: 55px; */
+    bottom: 292px;
 }
