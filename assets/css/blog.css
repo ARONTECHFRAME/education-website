@@ -1,0 +1,229 @@
+.over{
+    width: 100%;
+    height: 230px;
+}
+.photo{
+    position: relative;
+    bottom: 205px;
+    left: 30px;
+}
+.searchdiv{
+    position: relative;
+    bottom: 216px;
+    left: 113px;
+    display: inline-flex;
+    outline: solid 1px white;
+    /* border: solid 1px white; */
+    border-radius: 11px;
+    border: 62px 70px;
+    padding: 7px 57px;
+}
+.searchinput{
+    border: none;
+    outline: none;
+    background-color: gray;
+    color: white;
+}
+.searchinput::placeholder{
+    color: white;
+    position: relative;
+    left: 0px;
+}
+.drop{
+    position: relative;
+    bottom: 216px;
+    display: inline-flex;
+    left: 180px;
+    border: none;
+    outline: none;
+}
+.border{
+    border: none;
+    outline: none;
+}
+.mentor{
+    position: relative;
+    bottom: 217px;
+    left: 229px;
+}
+.login{
+    background-color: white;
+    padding: 12px 29px;
+    border-radius: 8px;
+    border-width: thin;
+    height: 48px;
+    margin-right: 54px;
+  }
+  .signup{
+    padding: 12px 29px;
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: deeppink;
+    color: white;
+    height: 48px;
+  }
+  .buttons{
+    position: relative;
+    bottom: 217px;
+    left: 285px;
+    display: inline-flex;
+  }
+  #latest{
+    right: 892px;
+    position: relative;
+    /* top: -12px; */
+    display: inline-flex;
+    bottom: 87px;
+    color: white;
+  }
+  #s{
+    display: inline-flex;
+    position: relative;
+    bottom: 156px;
+    /* left: 400px; */
+    right: 1060px;
+    width: 64px;
+  }
+  .position{
+    text-align: start;
+    width: 426px;
+    margin-right: 61px;
+  }
+  .start{
+      padding: 12px 29px;
+      border-radius: 8px;
+      border-width: 0px;
+      background-color: deeppink;
+      color: white;
+      height: 48px;
+  }
+  .start:hover{
+    background-color: gray;
+  }
+  .qwerty{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-left: 300px;
+    position: relative;
+    bottom: 13px;
+  }
+  .ytrewq{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-left: 300px;
+    position: relative;
+    bottom: -50px;
+  } 
+.drdre{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-left: 300px;
+    position: relative;
+    bottom: -100px;
+}
+.dogg{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-left: 300px;
+    position: relative;
+    bottom: -150px;
+}
+.img{
+    width: 411px;
+}
+.navy{
+    position: relative;
+    width: 100%;
+    top: 221px;
+}
+.logus{
+    position: relative;
+    bottom: 150px;
+    left: 50px;
+}
+.remor{
+    position: relative;
+    bottom: 115px;
+    left: 50px;
+    width: 530px;
+    color: white;
+    line-height: 28px;
+}
+.policy{
+    position: relative;
+    bottom: -11px;
+    left: 50px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.terms{
+    position: relative;
+    bottom: -11px;
+    left: 75px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.copyright{
+    position: relative;
+    bottom: -11px;
+    left: 630px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.about{
+        position: relative;
+    bottom: 317px;
+    left: 285px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+    /* /* font-size: 400px; */
+}
+.us{
+    position: relative;
+    bottom: 267px;
+    left: 230px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+    /* /* font-size: 400px; */
+}
+.cours{
+    position: relative;
+    bottom: 230px;
+    left: 167px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.ment{
+    position: relative;
+    bottom: 195px;
+    left: 112px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.contact{
+    position: relative;
+    bottom: 155px;
+    left: 61px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}

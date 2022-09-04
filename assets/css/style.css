@@ -312,6 +312,9 @@ width: 230px;
     color: white;
     height: 48px;
 }
+.start:hover{
+  background-color: gray;
+}
 .qwerty{
   display: flex;
   flex-direction: row;
@@ -320,6 +323,151 @@ width: 230px;
   align-items: flex-start;
   margin-left: 300px;
   position: relative;
-    /* top: 55px; */
-    bottom: 292px;
+  bottom: 292px;
+}
+.png-top{
+  position: relative;
+  bottom: 160px;
+  left: 290px;
+}
+.png-lines{
+  position: relative;
+  bottom: 89px;
+  left: -59px;
+}
+.thanks{
+  position: relative;
+  bottom: 450px;
+  right: -645px;
+  display: inline-flex;
+  width: 290px;
+  line-height: 27px;
+}
+#kecek{
+  position: relative;
+  bottom: 319px;
+  right: -354px;
+  display: inline-flex;
+  width: 290px;
+}
+#yang{
+  position: relative;
+  bottom: 267px;
+  right: -59px;
+  display: inline-flex;
+  width: 290px;
+  font-size: 10px;
+}
+.comp{
+  width: 978px;
+    position: relative;
+    bottom: 151px;
+    left: 135px;
+    height: 300px;
+}
+#read{
+  color: deeppink;
+  font-size: x-small;
+}
+#blog{
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  top: -50px;
+}
+#sept{
+  font-size: 10px;
+}
+.latest{
+  position: relative;
+  bottom: 80px;
+  /* left: 30px; */
+  display: inline-flex;
+  right: 910px;
+}
+#dolor{
+  width: 259px;
+}
+.navy{
+  width: 100%;
+}
+.logus{
+  position: relative;
+  bottom: -76px;
+  left: 50px;
+}
+.remor{
+  position: relative;
+  bottom: 285px;
+  left: 50px;
+  width: 530px;
+  color: white;
+  line-height: 28px;
+}
+.policy{
+  position: relative;
+  bottom: 185px;
+  left: 50px;
+  /* width: 527px; */
+  color: white;
+  display: inline-flex;
+}
+.terms{
+  position: relative;
+  bottom: 185px;
+  left: 100px;
+  /* width: 527px; */
+  color: white;
+  display: inline-flex;
+}
+.copyright{
+  position: relative;
+  bottom: 185px;
+  left: 630px;
+  /* width: 527px; */
+  color: white;
+  display: inline-flex;
+}
+.about{
+  position: relative;
+  bottom: 491px;
+  left: 285px;
+  /* width: 527px; */
+  color: white;
+  display: inline-flex;
+  /* font-size: 400px;*/
+}
+.us{
+  position: relative;
+  bottom: 435px;
+  left: 230px;
+  /* width: 527px; */
+  color: white;
+  display: inline-flex;
+  /* font-size: 400px; */
+}
+.cours{
+  position: relative;
+  bottom: 399px;
+  left: 167px;
+  /* width: 527px; */
+  color: white;
+  display: inline-flex;
+  /* font-size: 400px; */
+}
+.ment{
+  position: relative;
+  bottom: 365px;
+  left: 112px;
+  /* width: 527px; */
+  color: white;
+  display: inline-flex;
+}
+.contact{
+position: relative;
+    bottom: 328px;
+    left: 61px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
 }

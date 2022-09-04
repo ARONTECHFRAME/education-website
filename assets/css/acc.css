@@ -1,0 +1,185 @@
+.over{
+    width: 100%;
+    height: 230px;
+}
+.photo{
+    position: relative;
+    bottom: 205px;
+    left: 30px;
+}
+.searchdiv{
+    position: relative;
+    bottom: 216px;
+    left: 113px;
+    display: inline-flex;
+    outline: solid 1px white;
+    /* border: solid 1px white; */
+    border-radius: 11px;
+    border: 62px 70px;
+    padding: 7px 57px;
+}
+.searchinput{
+    border: none;
+    outline: none;
+    background-color: gray;
+    color: white;
+}
+.searchinput::placeholder{
+    color: white;
+    position: relative;
+    left: 0px;
+}
+.drop{
+    position: relative;
+    bottom: 216px;
+    display: inline-flex;
+    left: 180px;
+    border: none;
+    outline: none;
+}
+.border{
+    border: none;
+    outline: none;
+}
+.mentor{
+    position: relative;
+    bottom: 217px;
+    left: 229px;
+}
+.other{
+    position: relative;
+    bottom: 216px;
+    display: inline-flex;
+    left: 350px;
+    border: none;
+    outline: none;
+}
+.top{
+    position: relative;
+    bottom: 249px;
+    display: inline-flex;
+    left: 964px;
+    border: none;
+    outline: none;
+    width: 33px;
+}
+#image{
+    width: 121px;
+    position: relative;
+    left: 58px;
+}
+.h2{
+    position: relative;
+    bottom: 71px;
+    left: 77px;
+    display: inline-flex;
+}
+.dev{
+    position: relative;
+    bottom: 42px;
+    display: inline-flex;
+    left: -179px;
+}
+.catalogue{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    /* bottom: -435px; */
+    top: 435px;
+  }
+  .catalog{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    bottom: 300px;
+  }
+.catal{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    bottom: -105px;
+}
+.navy{
+    position: relative;
+    width: 100%;
+    top: 221px;
+}
+.logus{
+    position: relative;
+    bottom: 150px;
+    left: 50px;
+}
+.remor{
+    position: relative;
+    bottom: 115px;
+    left: 50px;
+    width: 530px;
+    color: white;
+    line-height: 28px;
+}
+.policy{
+    position: relative;
+    bottom: -11px;
+    left: 50px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.terms{
+    position: relative;
+    bottom: -11px;
+    left: 75px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.copyright{
+    position: relative;
+    bottom: -11px;
+    left: 630px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.about{
+        position: relative;
+    bottom: 317px;
+    left: 285px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+    /* /* font-size: 400px; */
+}
+.us{
+    position: relative;
+    bottom: 267px;
+    left: 230px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+    /* /* font-size: 400px; */
+}
+.cours{
+    position: relative;
+    bottom: 230px;
+    left: 167px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.ment{
+    position: relative;
+    bottom: 195px;
+    left: 112px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.contact{
+    position: relative;
+    bottom: 155px;
+    left: 61px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
