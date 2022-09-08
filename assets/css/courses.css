@@ -1,0 +1,118 @@
+.login{
+    background-color: white;
+    padding: 12px 29px;
+    border-radius: 8px;
+    border-width: thin;
+    height: 48px;
+  }
+  .signup{
+    padding: 12px 29px;
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: deeppink;
+    color: white;
+    height: 48px;
+  }
+  .background1{
+    width: 100%;
+    align-items: center;
+    margin-top: 10px;
+  }
+  .search-input{ 
+    font-size: 17px;
+    float: left;
+    background: white;
+    border: none;
+    outline: none;
+    height: 95%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+  }
+  .search-div{
+    border: 1px gray solid;
+    height: 48px;
+    width: 443px;
+    display: flex;
+    justify-content: center;
+    border-radius: 7px;
+  }
+  #search-icon{
+    align-self: center;
+    margin-right: 5px;
+  }
+  .nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .small{
+    position: relative;
+    top: 17px;
+    left: 58px;
+    display: inline-flex;
+    width: 128px;
+  }
+  #title{
+    position: relative;
+    top: 91px;
+    left: -78px;
+    display: inline-flex;
+  }
+  .para{
+    position: relative;
+    display: inline-flex;
+    width: 400px;
+    top: 145px;
+    left: -390px;
+  }
+  #sub{
+    position: relative;
+    display: inline-flex;
+    top: 239px;
+    left: -793px;
+  }
+  .catal{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    bottom: -229px;
+}
+  .categories{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 760px;
+  }
+  .top{
+    display: inline-flex;
+    justify-content: start;
+    position: relative;
+    font-size: 34px;
+    bottom: 480px;
+    left: -170px;
+  }
+  .top2{
+    position: relative;
+    bottom: 450px;
+    margin-right: 6px;
+  }
+  .top2 > p{
+    position: relative;
+    bottom: 81px;
+    left: 100px;
+    display: inline-flex;
+  }
+  .tool{
+    position: relative;
+    top: 260px;
+    left: -45px;
+    display: inline;
+  }
+  .category{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 810px;
+  }
