@@ -1,0 +1,326 @@
+.over{
+    width: 100%;
+    height: 360px;
+}
+.photo{
+    position: relative;
+    bottom: 335px;
+    left: 30px;
+}
+.searchdiv{
+    position: relative;
+    bottom: 345px;
+    left: 113px;
+    display: inline-flex;
+    outline: solid 1px white;
+    /* border: solid 1px white; */
+    border-radius: 11px;
+    border: 62px 70px;
+    padding: 7px 57px;
+}
+.searchinput{
+    border: none;
+    outline: none;
+    background-color: gray;
+    color: white;
+}
+.searchinput::placeholder{
+    color: white;
+    position: relative;
+    left: 0px;
+}
+.drop{
+    position: relative;
+    bottom: 345px;
+    display: inline-flex;
+    left: 180px;
+    border: none;
+    outline: none;
+}
+.border{
+    border: none;
+    outline: none;
+}
+.mentor{
+    position: relative;
+    bottom: 345px;
+    left: 229px;
+}
+.login{
+    background-color: white;
+    padding: 12px 29px;
+    border-radius: 8px;
+    border-width: thin;
+    height: 48px;
+    margin-right: 54px;
+  }
+  .signup{
+    padding: 12px 29px;
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: deeppink;
+    color: white;
+    height: 48px;
+  }
+  .buttons{
+    position: relative;
+    bottom: 345px;
+    left: 285px;
+    display: inline-flex;
+  }
+  #latest{
+    right: 892px;
+    position: relative;
+    /* top: -12px; */
+    display: inline-flex;
+    bottom: 87px;
+    color: white;
+  }
+  #s{
+    display: inline-flex;
+    position: relative;
+    bottom: 156px;
+    /* left: 400px; */
+    right: 1060px;
+    width: 64px;
+  }
+  .crumbs{
+    position: relative;
+    bottom: 360px;
+    left: 30px;
+    width: 348px; 
+  }
+  .text{
+    position: relative;
+    bottom: 285px;
+    width: 350px;
+    right: 320px;
+  }
+.um{
+    position: relative;
+    bottom: 235px;
+    width: 270px;
+    right: 672px;
+}
+.prof{
+    position: relative;
+    bottom: 200px;
+    width: 200px;
+    right: 945px;
+}
+.ja{
+    padding: 12px 29px;
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: deeppink;
+    color: white;
+    height: 38px;
+    position: relative;
+    bottom: 179px;
+    left: 36px;
+}
+.jo{
+    padding: 12px 29px;
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: white;
+    color: deeppink;
+    height: 38px;
+    position: relative;
+    bottom: 179px;
+    left: 36px;
+}
+.emoji{
+    height: 15px;
+    position: relative;
+    bottom: 176px;
+    left: 10px;
+}
+.quam{
+    width: 470px;
+    position: relative;
+    bottom: 100px;
+    left: 130px;
+}
+.ajax{
+    position: relative;
+    width: 300px;
+    left: 800px;
+    bottom: 366px;
+}
+.fundi{
+    padding: 12px 84px;
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: deeppink;
+    color: white;
+    height: 38px;
+    position: relative;
+    bottom: 179px;
+    left: 36px;
+    margin-bottom: 10px;
+}
+.per{
+    padding: 12px 84px;
+    border-radius: 8px;
+    /* border-width: 0px; */
+    border-color: deeppink;
+    background-color: white;
+    color: deeppink;
+    height: 38px;
+    position: relative;
+    bottom: 179px;
+    left: 36px;
+    outline-color: deeppink;
+}
+#qwerty{
+    position: relative;
+    bottom: 295px;
+    left: 499px;
+    flex-direction: column;
+    display: inline-flex;
+}
+.obj{
+    width: 600px;
+    position: relative;
+    left: -416px;
+    bottom: 185px;
+}
+.req{
+    width: 600px;
+    position: relative;
+    left: 127px;
+    bottom: 185px;
+}
+.mod{
+    width: 600px;
+    position: relative;
+    left: -474px;
+    bottom: 185px;
+}
+.more{
+    padding: 12px 250px;
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: deeppink;
+    color: white;
+    height: 38px;
+    position: relative;
+    bottom: 179px;
+    left: 125px;
+    margin-bottom: 10px;
+}
+.shemsi{
+    position: relative;
+    bottom: 80px;
+    left: 124px;
+}
+.wasd{
+    position: relative;
+    bottom: 260px;
+    left: 457px;
+    width: 457px;
+}
+.feed{
+    position: relative;
+    bottom: 100px;
+    left: 120px;
+}
+.view{
+    position: relative;
+    bottom: 10px;
+    left: 120px;
+    width: 538px;
+}
+.catal{
+    display: flex;
+    position: relative;
+    bottom: 6px;
+    align-content: stretch;
+    align-items: flex-end;
+    margin-left: 44px;
+}
+.navy{
+    position: relative;
+    width: 100%;
+    top: 221px;
+}
+.logus{
+    position: relative;
+    bottom: 150px;
+    left: 50px;
+}
+.remor{
+    position: relative;
+    bottom: 115px;
+    left: 50px;
+    width: 530px;
+    color: white;
+    line-height: 28px;
+}
+.policy{
+    position: relative;
+    bottom: -11px;
+    left: 50px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.terms{
+    position: relative;
+    bottom: -11px;
+    left: 75px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.copyright{
+    position: relative;
+    bottom: -11px;
+    left: 630px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.about{
+        position: relative;
+    bottom: 317px;
+    left: 285px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+    /* /* font-size: 400px; */
+}
+.us{
+    position: relative;
+    bottom: 267px;
+    left: 230px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+    /* /* font-size: 400px; */
+}
+.cours{
+    position: relative;
+    bottom: 230px;
+    left: 167px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.ment{
+    position: relative;
+    bottom: 195px;
+    left: 112px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
+.contact{
+    position: relative;
+    bottom: 155px;
+    left: 61px;
+    /* width: 527px; */
+    color: white;
+    display: inline-flex;
+}
